@@ -1,0 +1,4 @@
+# Directorio de salida de Maven.
+build/
+WebContent/
+
